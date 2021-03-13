@@ -27,7 +27,7 @@ class DataEdoMigrationFiles extends Command
      *
      * @var string
      */
-    protected $signature = 'make:migration:dataedo';
+    protected $signature = 'dataedo:migration';
 
     /**
      * The console command description.
