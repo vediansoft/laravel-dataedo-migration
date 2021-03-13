@@ -7,7 +7,7 @@ This will convert Dataedo `data` folder from `documentation export` into laravel
 
 1. Add directory `DataEdoMigration` to `app\Console\Commands`
 2. You should now have structure like `app\Console\Commands\DataEdoMigration`
-3. Export dataedo documentation
+3. Export dataedo documentation from `dataedo documentation software`
 4. Copy contents of `data` in `dataedo documentation export` into `app\Console\Commands\DataEdoMigration\data`
 
 # Usage
